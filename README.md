@@ -10,10 +10,10 @@ demonstrate competency of basic javascript.
 NA
 
 ## Links
-
+https://andrewgomoll.github.io/AndrewGomoll-Module3-Challenge/
 
 ## Screenshots
 
-
+AndrewGomoll-Module3-Challenge\GeneratePasswordImage.png"
 
 ---
